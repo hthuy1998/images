@@ -1,0 +1,5 @@
+chopstick
+fork
+knife
+scissor
+cotton swab
